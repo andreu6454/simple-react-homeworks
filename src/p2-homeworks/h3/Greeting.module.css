@@ -1,0 +1,15 @@
+.HW3{
+    margin: 20px;
+}
+.error {
+    padding: 5px 5px 0 5px;
+    color: red;
+}
+.counter{
+    margin-left: 5px;
+    padding: 2px 10px 2px 10px;
+    background-color: white;
+    border-radius: 15px;
+    color: black;
+    font-size: 13px;
+}

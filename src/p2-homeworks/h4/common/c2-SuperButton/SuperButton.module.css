@@ -1,0 +1,10 @@
+.default {
+
+}
+.button{
+    background-color: darkgray;
+    margin: 5px;
+}
+.red {
+    background: red;
+}

@@ -1,0 +1,23 @@
+.Block{
+    width: 400px;
+    height: 200px;
+    background-color: darkslateblue;
+    margin: auto;
+    border-radius: 15px;
+    padding: 20px;
+}
+.Error{
+    margin: 30px auto;
+    width: 60px;
+    font-size: 30px;
+}
+.ErrorMessage{
+    margin: auto;
+    width: 150px;
+    font-size: 20px;
+}
+.ErrorEmoji{
+    margin: auto;
+    width: 100px;
+    font-size: 20px;
+}

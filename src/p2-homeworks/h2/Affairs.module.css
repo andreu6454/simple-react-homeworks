@@ -1,0 +1,31 @@
+.Affair{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5px;
+    padding: 2px 2px 2px 30px;
+    background-color: darkslateblue;
+    max-width: 300px;
+    border-radius: 30px;
+}
+.AffairName{
+    padding-right: 30px;
+}
+.AffairPriority{
+    padding-right: 30px;
+}
+.Affairs{
+    margin: 20px;
+    max-width: 300px;
+    justify-content: center;
+}
+.Affair button{
+    background-color: darkgray;
+    width: 60px;
+}
+.Buttons{
+    margin-left: 25px;
+}
+.Buttons button{
+    background-color: darkgray;
+    width: 60px;
+}
