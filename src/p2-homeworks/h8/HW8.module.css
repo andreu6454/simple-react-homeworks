@@ -1,0 +1,23 @@
+.peopleList{
+    width: 210px;
+    padding: 10px;
+    background-color: darkslateblue;
+    color: white;
+    border-radius: 15px;
+    margin: 10px;
+}
+.peopleInfo {
+    display: flex;
+    width: 191px;
+    margin-bottom: 3px;
+}
+.nameBlock{
+    width: 191px;
+}
+.ageBlock{
+    width: 19px;
+}
+.buttonsBlock{
+    margin-left: 10px;
+    display: flex;
+}
